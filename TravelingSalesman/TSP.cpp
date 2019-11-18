@@ -1,6 +1,6 @@
 // Project 4 
 // CS325 Winter 2016
-// Group 8 - Rachael McConnell, Bryan Resner, Ashley Grealish
+// Group 8 - Rachael M, Bryan Resner, Ashley G
 //
 // Read input about cities from file and store. Split the cities into 4 neighborhoods based on their location on the 2d grid/graph. Go through each neighborhood
 // creating a path between all cities in that neighborhood.  Cities are selected using the greedy method. Once all cities have been included on the tour, switch 
